@@ -197,5 +197,18 @@
       "downloadUrl": "https://github.com/SileboxUnderfined/SuperGile/releases/download/v0.1.1/supergile-0.1.1.zip",
       "sha256": "67ebf31649f745950f38da4f58f6bf43ed73e89fb43d5b1537ff626f78fbca76"
     }
+  },
+  {
+    "name": "Days Until",
+    "shortDescription": "Countdown board for upcoming dates with repeating countdowns, groups, and an archive.",
+    "url": "https://github.com/Ruurdoos/days-until-plugin",
+    "author": "Ruurdoos",
+    "authorUrl": "https://github.com/Ruurdoos",
+    "id": "days-until",
+    "release": {
+      "version": "1.1.1",
+      "downloadUrl": "https://github.com/Ruurdoos/days-until-plugin/releases/download/v1.1.1/output.zip",
+      "sha256": "3cc509029c8d721bc5b9a8d7a0c37dde3d2a70e90784ef528f5998deaab85746"
+    }
   }
 ]
